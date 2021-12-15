@@ -1,7 +1,5 @@
 # Hotel-Management-System-Database
-Q.)  Please write details of the project you selected to work on for this class. 
-
-Ans: - Our team project name is Hotel Management System.  
+Hey👋! 
 
 Objectives of the project: - 
 
@@ -30,9 +28,7 @@ The following attributes, I have considered before designing the initial view of
 19) Loyalty_number 
 20) Satisfaction level 
 
-Q.) Please specify the pain point you are solving and business requirements, rules, and processes that you need to implement while designing the database. I expect you to have no less than 10 entities and establish business processes and interactions between them. 
-
-Ans: - Pain points of management of a hotel are as follows – 
+Pain points of management of a hotel are as follows – 
 
 The hotel has a different department like billing, room service, other services, reservations, loyalty card etc. and these departments don’t have an integrated system to know customer information/transactions at a single window.  
 
@@ -40,7 +36,7 @@ Hotel is not able to properly understand customer purchase and services behavior
 
 With the help of this data model, we are trying to solve the above-mentioned problem by creating an integrated system to manage all services in the hotel. This will also help to understand customer behavior. 
 
-Rules: - 
+Rules📜:- 
 
 In one reservation customer can use none or multiple services 
 
